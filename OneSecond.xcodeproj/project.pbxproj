@@ -19,6 +19,8 @@
 		F36257311FDCC48000D2EC7E /* OneSecondUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F36257301FDCC48000D2EC7E /* OneSecondUITests.swift */; };
 		F362573F1FDCC52C00D2EC7E /* Clock.png in Resources */ = {isa = PBXBuildFile; fileRef = F362573E1FDCC52C00D2EC7E /* Clock.png */; };
 		F36257421FDCD30000D2EC7E /* RedButton.png in Resources */ = {isa = PBXBuildFile; fileRef = F36257411FDCD30000D2EC7E /* RedButton.png */; };
+		F36257441FDCD95700D2EC7E /* Shitty Games.png in Resources */ = {isa = PBXBuildFile; fileRef = F36257431FDCD95700D2EC7E /* Shitty Games.png */; };
+		F36257461FDE29D700D2EC7E /* Scorecard.png in Resources */ = {isa = PBXBuildFile; fileRef = F36257451FDE29D700D2EC7E /* Scorecard.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +59,8 @@
 		F36257321FDCC48000D2EC7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F362573E1FDCC52C00D2EC7E /* Clock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Clock.png; sourceTree = "<group>"; };
 		F36257411FDCD30000D2EC7E /* RedButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RedButton.png; sourceTree = "<group>"; };
+		F36257431FDCD95700D2EC7E /* Shitty Games.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shitty Games.png"; sourceTree = "<group>"; };
+		F36257451FDE29D700D2EC7E /* Scorecard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Scorecard.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +147,8 @@
 			isa = PBXGroup;
 			children = (
 				F36257411FDCD30000D2EC7E /* RedButton.png */,
+				F36257451FDE29D700D2EC7E /* Scorecard.png */,
+				F36257431FDCD95700D2EC7E /* Shitty Games.png */,
 				F362573E1FDCC52C00D2EC7E /* Clock.png */,
 			);
 			path = Images;
@@ -260,6 +266,8 @@
 				F36257181FDCC48000D2EC7E /* Assets.xcassets in Resources */,
 				F362571B1FDCC48000D2EC7E /* LaunchScreen.storyboard in Resources */,
 				F36257421FDCD30000D2EC7E /* RedButton.png in Resources */,
+				F36257441FDCD95700D2EC7E /* Shitty Games.png in Resources */,
+				F36257461FDE29D700D2EC7E /* Scorecard.png in Resources */,
 				F362573F1FDCC52C00D2EC7E /* Clock.png in Resources */,
 				F362570F1FDCC48000D2EC7E /* Actions.sks in Resources */,
 			);
